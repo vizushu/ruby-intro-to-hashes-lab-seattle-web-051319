@@ -1,12 +1,12 @@
 def new_hash
   new_hash = {
-    :actor  => "Dwayne The Rock Johnson",
-    
   }
 end
 
 def actor
-
+  hash = {
+    :actor  => "Dwayne The Rock Johnson",
+  }
 end
 
 def monopoly
